@@ -1,0 +1,47 @@
+
+
+.element{
+    margin-top: 2rem;
+    background-color:white;
+}
+.element >*
+{
+  
+   margin-bottom: 0.7rem;
+   letter-spacing: 2.5px;
+  padding-left: 10px;
+}
+
+.element p{
+    color:rgb(150, 149, 149);
+}
+
+.cocktailimage
+{
+    height:20rem;
+    width:20rem;
+    object-fit:cover;
+    padding: 0;
+    margin-bottom: 1rem;
+}
+
+.element button{
+  background-color: rgb(45, 66, 59);
+ margin-left: 10px;
+ border:none;
+ height:2rem;
+ width:8rem;
+ color:white;
+ border-radius: 3px;
+ cursor: pointer;
+ padding-left: 0;
+ text-align: center;
+
+}
+
+.element button:hover 
+{
+    color: rgb(45, 66, 59);
+    background-color: rgb(142, 170, 142);
+    
+}

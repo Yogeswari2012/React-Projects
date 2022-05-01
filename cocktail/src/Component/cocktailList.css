@@ -1,0 +1,26 @@
+.cocktail
+{
+    margin-top:3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.list
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width:70%;
+    margin-bottom: 2rem;
+}
+
+.noelements
+{
+    margin-top: 2rem;
+    font-size: 2rem;
+    color:#9c7070;
+    text-align: center;
+}

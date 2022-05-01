@@ -1,0 +1,76 @@
+.singlelement
+{
+    margin-top: 8rem;
+   
+   
+}
+
+.btn
+{
+    text-align: center;
+}
+
+.singlelement button{
+    background-color: rgb(27, 44, 27);
+    color:white;
+    width:10rem;
+    letter-spacing: 2px;
+   padding: 0.5rem;
+   border-radius: 4px;
+   cursor: pointer;
+  margin-bottom: 2rem;
+  
+   
+}
+
+.singlelement button:hover{
+    background-color: rgb(63, 97, 11);
+}
+
+.singlelement h1{
+
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.singlelement img{
+    margin-top:2rem;
+    width:30rem;
+    height:30rem;
+}
+
+.label
+{
+    background-color: #EBD8C3;
+    display: inline;
+    padding : 3px;
+    color:#463622;
+    margin-right: 10px;
+   
+}
+
+.main-content h4{
+    display:inline;
+   
+  
+}
+
+.content div{
+    margin-bottom: 1.5rem;
+}
+
+.content{
+    margin-top: 1rem;
+}
+
+
+.main-content{
+    display: flex;
+    align-items:center ;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    align-items: center;
+    padding : 2rem;
+
+}

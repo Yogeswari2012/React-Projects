@@ -1,0 +1,33 @@
+.searchbar
+{
+    margin-top: 10rem;
+   
+    padding: 1rem;
+    width:40rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    background-color: white;
+}
+
+.searchtitle
+{
+   letter-spacing: 2px;
+   color: rgb(109, 95, 95);
+}
+
+
+ input
+{
+   width: 90%;
+   height: 2rem;
+   border:transparent;
+   border-radius: 3px;
+   margin-top: 1rem;
+   background-color: #ebe0e0;
+   padding-left: 10px;
+}
+
+input:focus{
+    outline:none;
+}

@@ -1,0 +1,23 @@
+section
+{
+   margin-top: 15rem;
+    width:35rem;
+   margin-left: auto;
+   margin-right: auto;
+}
+.about
+{
+    text-align: center;
+    margin-bottom: 2rem;
+    letter-spacing: 2px;
+    font-size: 2rem;
+}
+
+
+section p{
+
+   letter-spacing: 2px;
+   line-height: 2;
+   font-size: 18px;
+   color:#574733;
+}
