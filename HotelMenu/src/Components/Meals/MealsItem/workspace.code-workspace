@@ -1,0 +1,131 @@
+{
+	"folders": [
+		{
+			"name": "Simon Game Challenge Starting Files",
+			"path": "E:\\yogeswari\\Simon Game Challenge Starting Files"
+		},
+		{
+			"name": "flexbox_tutorials",
+			"path": "E:\\yogeswari\\JavaScriptCrashCourse\\flexbox_tutorials"
+		},
+		{
+			"name": "CSSImages",
+			"path": "..\\..\\..\\..\\..\\..\\..\\Pictures\\CSSImages"
+		},
+		{
+			"name": "photos",
+			"path": "E:\\Webdevelopment\\photos"
+		},
+		{
+			"name": "JS_Projects",
+			"path": "E:\\yogeswari\\JavaScriptCrashCourse\\JS_Projects"
+		},
+		{
+			"name": "Jquery",
+			"path": "D:\\Jquery"
+		},
+		{
+			"name": "videos",
+			"path": "..\\..\\..\\..\\..\\..\\..\\Desktop\\tour and travel website\\images\\videos"
+		},
+		{
+			"name": "Images",
+			"path": "..\\..\\..\\..\\..\\..\\..\\Desktop\\tour and travel website\\images\\Images"
+		},
+		{
+			"name": "jquery-ui-1.12.1",
+			"path": "D:\\Jquery\\jquery-ui-1.12.1\\jquery-ui-1.12.1"
+		},
+		{
+			"name": "ReactProjects",
+			"path": "E:\\yogeswari\\ReactProjects"
+		},
+		{
+			"name": "ReactSetUp",
+			"path": "..\\..\\..\\..\\..\\..\\ReactSetUp"
+		},
+		{
+			"name": "cssStylingDemo",
+			"path": "..\\..\\..\\..\\..\\..\\cssStylingDemo"
+		},
+		{
+			"name": "ErrorFinding",
+			"path": "..\\..\\..\\..\\..\\..\\ErrorFinding"
+		},
+		{
+			"name": "react-todo",
+			"path": "..\\..\\..\\..\\..\\..\\react-todo"
+		},
+		{
+			"name": "AddUserFinished",
+			"path": "..\\..\\..\\..\\..\\..\\01-starting-project (2)\\AddUserFinished"
+		},
+		{
+			"name": "UseEffectHook",
+			"path": "..\\..\\..\\..\\..\\..\\UseEffect\\UseEffectHook"
+		},
+		{
+			"name": "learn-redux",
+			"path": "..\\..\\..\\..\\..\\..\\UseEffect\\learn-redux"
+		},
+		{
+			"name": "ReactBasicProject",
+			"path": "..\\..\\..\\..\\..\\..\\ReactBasicProject"
+		},
+		{
+			"name": "HotelMenu",
+			"path": "..\\..\\..\\..\\.."
+		},
+		{
+			"name": "grocerybud",
+			"path": "..\\..\\..\\..\\..\\..\\ReactBasicProject\\grocerybud"
+		},
+		{
+			"name": "usecontexthook",
+			"path": "..\\..\\..\\..\\..\\..\\UseEffect\\usecontexthook"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\howreactworks"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\ReactBasicProject\\loading"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\ReactBasicProject\\cart"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Backend"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\06-preparing-the-project-for-the-next-steps"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Demo-repository"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Demo-Repository2"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Custom-Hooks"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\CustomHooks"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\FromReact"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Redux-Project"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\React-Router-Tutorial"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\router-tutorial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "JS_Projects"
+	}
+}
